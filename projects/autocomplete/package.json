@@ -1,0 +1,24 @@
+{
+  "name": "ng2-input-autocomplete",
+  "version": "1.1.2",
+  "description": "Angular input auto complete",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuy97/ng2-input-autocomplete"
+  },
+  "author": {
+    "name": "liuy97",
+    "email": "liuy97@gmail.com"
+  },
+  "keywords": [
+    "angular",
+    "autocomplete",
+    "angular2",
+    "input"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": ">=2.0.0",
+    "@angular/core": ">=2.0.0"
+  }
+}
